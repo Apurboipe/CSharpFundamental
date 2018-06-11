@@ -1,0 +1,6 @@
+F:\Datasoft\C# socket Program\CSharpFundamental\StaticClassAndClass\bin\Debug\StaticClassAndClass.exe.config
+F:\Datasoft\C# socket Program\CSharpFundamental\StaticClassAndClass\bin\Debug\StaticClassAndClass.exe
+F:\Datasoft\C# socket Program\CSharpFundamental\StaticClassAndClass\bin\Debug\StaticClassAndClass.pdb
+F:\Datasoft\C# socket Program\CSharpFundamental\StaticClassAndClass\obj\Debug\StaticClassAndClass.csprojResolveAssemblyReference.cache
+F:\Datasoft\C# socket Program\CSharpFundamental\StaticClassAndClass\obj\Debug\StaticClassAndClass.exe
+F:\Datasoft\C# socket Program\CSharpFundamental\StaticClassAndClass\obj\Debug\StaticClassAndClass.pdb
